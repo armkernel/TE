@@ -1,3 +1,9 @@
+/*
+	name : armkernel
+	date : 20190411
+	desciprot : today i learn pwm rgb led  
+ */
+
 
 #include <stdio.h>
 #include <wiringPi.h>
